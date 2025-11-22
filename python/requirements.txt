@@ -1,0 +1,10 @@
+# Required packages for AI Stock Price Prediction System
+# Install using: pip install -r requirements.txt
+
+yfinance>=0.2.18
+pandas>=1.5.0
+numpy>=1.24.0
+tensorflow>=2.12.0
+scikit-learn>=1.3.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
