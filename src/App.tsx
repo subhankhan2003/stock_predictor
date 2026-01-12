@@ -112,7 +112,7 @@ function App() {
             <strong>Technologies:</strong> Python, TensorFlow/Keras, LSTM, Yahoo Finance API, Pandas, Matplotlib
           </p>
           <p className="text-sm opacity-75">
-            University AI Project - Stock Price Prediction using Deep Learning
+           University AI Project - Stock Price Prediction using Deep Learning Developed by Subhan Khan
           </p>
         </footer>
       </div>
